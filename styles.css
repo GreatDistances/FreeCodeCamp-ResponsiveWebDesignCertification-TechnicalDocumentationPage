@@ -36,6 +36,14 @@ nav a {
   line-height: 1.5;
 }
 
+h1, h2 {
+  color: #111111;
+}
+
+p {
+  color: #333333;
+}
+
 .main-section:last-child {
   padding-bottom: 800px;
 }
